@@ -1,0 +1,24 @@
+body 
+{
+  color: #3d5a80;
+  background: #59c9a5;
+  font-family: 'Courgette';
+  font-size: 15px;
+}
+h1, h2, h3
+{
+  font-family: 'Great Vibes', cursive;
+}
+
+figure
+{
+	text-align: center;
+	font-style: italic;	
+	/*border: 1px solid red;
+	*/
+}
+
+header, footer
+{
+	text-align: center;
+}
